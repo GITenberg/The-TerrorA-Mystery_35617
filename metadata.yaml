@@ -1,0 +1,31 @@
+_repo: The-TerrorA-Mystery_35617
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Machen, Arthur
+    birthdate: 1863
+    deathdate: 1947
+    gutenberg_agent_id: '214'
+    url: http://www.gutenberg.org/2009/agents/214
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Machen
+description: ''
+gutenberg_issued: '2011-03-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35617'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Murder -- Fiction'
+- !lcsh 'Animals -- Great Britain -- Fiction'
+- !lcsh 'London (England) -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Mystery fiction'
+- !lcsh 'World War, 1914-1918 -- Great Britain -- Fiction'
+title: 'The Terror: A Mystery'
+url: http://www.gutenberg.org/ebooks/35617
